@@ -1,0 +1,10 @@
+/Users/yanawilkins/Documents/dotnet/HandyMan/bin/Debug/netcoreapp2.0/HandyMan.deps.json
+/Users/yanawilkins/Documents/dotnet/HandyMan/bin/Debug/netcoreapp2.0/HandyMan.runtimeconfig.json
+/Users/yanawilkins/Documents/dotnet/HandyMan/bin/Debug/netcoreapp2.0/HandyMan.runtimeconfig.dev.json
+/Users/yanawilkins/Documents/dotnet/HandyMan/bin/Debug/netcoreapp2.0/HandyMan.dll
+/Users/yanawilkins/Documents/dotnet/HandyMan/bin/Debug/netcoreapp2.0/HandyMan.pdb
+/Users/yanawilkins/Documents/dotnet/HandyMan/obj/Debug/netcoreapp2.0/HandyMan.csproj.CoreCompileInputs.cache
+/Users/yanawilkins/Documents/dotnet/HandyMan/obj/Debug/netcoreapp2.0/HandyMan.AssemblyInfoInputs.cache
+/Users/yanawilkins/Documents/dotnet/HandyMan/obj/Debug/netcoreapp2.0/HandyMan.AssemblyInfo.cs
+/Users/yanawilkins/Documents/dotnet/HandyMan/obj/Debug/netcoreapp2.0/HandyMan.dll
+/Users/yanawilkins/Documents/dotnet/HandyMan/obj/Debug/netcoreapp2.0/HandyMan.pdb
